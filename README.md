@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-[![OSCS Status](https://oscs.io/platform/badge/chncaption/chncaption.svg?size=small)](https://oscs.io/project/chncaption/chncaption?ref=badge_small)
+[![OSCS Status](https://www.oscs1024.com/platform/badge/chncaption/chncaption.svg?size=small)](https://www.oscs1024.com/project/chncaption/chncaption?ref=badge_small)
 
 
-[![OSCS Status](https://oscs.io/platform/badge/chncaption/chncaption.svg?size=large)](https://oscs.io/project/chncaption/chncaption?ref=badge_large)
 <!--
 **chncaption/chncaption** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
