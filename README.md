@@ -1,9 +1,7 @@
-### Hi there 👋
-
 [![OSCS Status](https://www.oscs1024.com/platform/badge/chncaption/chncaption.svg?size=small)](https://www.oscs1024.com/project/chncaption/chncaption?ref=badge_small)
 
 
-<!--
+
 **chncaption/chncaption** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
